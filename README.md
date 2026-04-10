@@ -6,6 +6,14 @@ This project is a **CPU Scheduling Simulator** developed in **C++** as part of a
 It demonstrates how different CPU scheduling algorithms work and compares their performance.
 
 ---
+## Student Details
+
+| Field | Details |
+|-------|---------|
+| **Student Name** | Abhiranjan Kumar |
+| **Registration Number** | 24MIP10128 |
+| **Course** | Operating System |
+| **Chosen Software** | C++ |
 
 ## 📌 Features
 
