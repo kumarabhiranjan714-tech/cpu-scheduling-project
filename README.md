@@ -103,7 +103,15 @@ g++ cpu_scheduling.cpp -o cpu
 
 ## 📊 Sample Output
 
-*(Add your screenshots here for better presentation)*
+<img width="500" height="603" alt="Screenshot 2026-04-10 151553" src="https://github.com/user-attachments/assets/53607b20-92da-4146-bee3-9c791b9301f6" />
+
+<img width="500" height="610" alt="Screenshot 2026-04-10 151655" src="https://github.com/user-attachments/assets/72161a42-87f1-457f-88e2-81dbb975440b" />
+
+<img width="500" height="614" alt="Screenshot 2026-04-10 151826" src="https://github.com/user-attachments/assets/f7cda347-a61e-4177-8f25-09f9ea07c14d" />
+
+<img width="500" height="560" alt="Screenshot 2026-04-10 151922" src="https://github.com/user-attachments/assets/0a86cc33-0e29-4863-aa93-3b255771a1d5" />
+
+
 
 ---
 
@@ -111,10 +119,10 @@ g++ cpu_scheduling.cpp -o cpu
 
 | Algorithm   | Average Waiting Time | Average Turnaround Time |
 | ----------- | -------------------- | ----------------------- |
-| FCFS        | (your output)        | (your output)           |
-| SJF         | (your output)        | (your output)           |
-| SRTF        | (your output)        | (your output)           |
-| Round Robin | (your output)        | (your output)           |
+| FCFS        | 4.00        | 6.75           |
+| SJF         | 3.25        | 6.00           |
+| SRTF        | 2.25        | 5.00           |
+| Round Robin | 4.50        | 7.25           |
 
 ---
 
